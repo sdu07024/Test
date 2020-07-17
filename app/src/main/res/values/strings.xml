@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Test</string>
     <string name="abc">abc</string>
+    <string name="abcd">abcd</string>
 </resources>
