@@ -11,7 +11,7 @@
         android:id="@+id/tv_get"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="#BA6959"
+        android:background="#BA5959"
         android:text="@string/abcd"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
         android:textColor="#FFFFFF"
