@@ -1,4 +1,4 @@
-package com.landvibe.test
+package com.landvibe.reviewtest
 
 import org.junit.Test
 
